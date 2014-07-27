@@ -107,7 +107,10 @@ pre.prettyprint {
 
 pre.prettyprinted {
   border: none !important;}
-  
+
+pre.prettyprint.prettyprinted {
+  border: none !important;}
+
 q {
   quotes: "\201C" "\201D" "\2018" "\2019"; }
 
