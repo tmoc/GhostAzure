@@ -99,10 +99,11 @@ code, kbd, pre, samp {
 pre {
   white-space: pre;
   white-space: pre-wrap;
-  word-wrap: break-word; }
+  word-wrap: break-word; 
+  border: none !important;}
 
 pre.prettyprint {
-border: none !important;}
+  border: none !important;}
 
 q {
   quotes: "\201C" "\201D" "\2018" "\2019"; }
