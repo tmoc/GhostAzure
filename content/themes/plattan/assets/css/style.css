@@ -101,6 +101,9 @@ pre {
   white-space: pre-wrap;
   word-wrap: break-word; }
 
+pre.prettyprint {
+border: none !important;}
+
 q {
   quotes: "\201C" "\201D" "\2018" "\2019"; }
 
